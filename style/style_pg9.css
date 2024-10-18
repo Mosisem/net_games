@@ -1,0 +1,174 @@
+.di_division_head{
+    position: absolute;
+    top:-1px ;
+    left: -1px;
+    height: 90px;
+    width: 1350px;
+    background-color: rgb(67, 5, 190);
+    box-shadow: 1px 1px 8px 0px rgb(0, 255, 195);
+}
+
+.input_buscas{
+    position: absolute;
+    top: 20px;
+    left: 420px;
+    height: 33px;
+    width: 500px;
+    border: none;
+    border-radius: 5px;
+    padding-left: 20px;
+}
+
+.butt_search{
+    position: absolute;
+    top: 20px;
+    left: 930px;
+    height: 30px;
+    width: 65px;
+    background-color: rgb(0, 140, 255);
+    border: none;
+    border-radius: 5px;
+}
+
+.img_logo{
+    position: relative;
+    inline-size: 10%;
+    left: 30px;
+}
+
+.txt_cadastro{
+    position: absolute;
+    top: 30px;
+    left: 1230px;
+    text-decoration: none;
+    font: 0.90em sans-serif;
+    color: black;
+    transition: 1s;
+}
+.txt_cadastro:hover{
+    position: absolute;
+    top: 30px;
+    left: 1230px;
+    text-decoration: none;
+    font: 0.90em sans-serif;
+    color:rgb(234, 97, 234);
+    transition: 1s;
+}
+
+.div_box{
+    position: absolute;
+    top: 120px;
+    left: 140px;
+    height: 580px;
+    width:1070px;
+    background-color: white;
+    border-radius: 5px;
+    box-shadow: 1px 2px 5px blue;
+}
+
+.img_produto_01{
+    position: absolute;
+    top: 120px;
+    left: 35px;
+    inline-size: 45%;
+}
+
+.sub_div_inf{
+    position: relative;
+    top: 5px;
+    left: 600px;
+    height: 560px;
+    width: 460px;
+    background-color: rgba(234, 233, 233, 0.248);
+    border-radius: 5px;
+}
+
+.txt_produto_01{
+    position: absolute;
+    top: 30px;
+    left: 25px;
+    font: 1.80em sans-serif;
+    font-weight: 5px;
+}
+
+.txt_produto_02{
+    position:absolute;
+    top: 150px;
+    left:25px;
+    font: 2.50em sans-serif;
+    line-height: 15px;
+}
+
+.txt_produto_03{
+    position: absolute;
+    top: 155px;
+    left: 220px;
+    font: 1.10em sans-serif;
+    color: rgb(11, 179, 11);
+}
+
+
+
+.txt_produto_04{
+    position: absolute;
+    top: 220px;
+    left: 25px;
+    font: 1.25em sans-serif;
+}
+
+.txt_produto_05{
+    position: absolute;
+    top: 255px;
+    left: 25px;
+    font: 1.20em sans-serif;
+}
+
+.txt_produto_06{
+    position: absolute;
+    top: 285px;
+    left: 30px;
+    font: 0.95em sans-serif;
+    color: rgb(122, 122, 122);
+}
+
+.button_comprar{
+    position: absolute;
+    top: 400px;
+    left: 120px;
+    height: 35px;
+    width: 200px;
+    background-color: rgb(30, 123, 254);
+    border-radius: 5px;
+    border: none;
+    font: 1.10em sans-serif;
+}
+
+.carrinho{
+    position: absolute;
+    top: 470px;
+    left: 120px;
+    height: 35px;
+    width: 200px;
+    background-color: rgb(88, 154, 245);
+    border-radius: 5px;
+    border: none;
+    font: 1.07em sans-serif;
+
+}
+
+.div_final{
+    position: absolute;
+    top:790px;
+    left: -1px;
+    height: 100px;
+    width:1350px;
+    background-color: black;
+}
+
+.sub_div_final{
+    position: relative;
+    top: 30px;
+    height: 2px;
+    background-color: rgb(92, 43, 226);
+
+}
