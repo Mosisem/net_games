@@ -33,7 +33,7 @@
 }
 
 .img_logo{
-    position: ;
+    position: relative;
     inline-size: 10%;
     /*left: 30px;*/
     left: 10px;
