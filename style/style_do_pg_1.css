@@ -36,7 +36,7 @@
     position: relative;
     inline-size: 10%;
     /*left: 30px;*/
-    left: 10px;
+    left: -30px;
 }
 
 .txt_cadastro{
