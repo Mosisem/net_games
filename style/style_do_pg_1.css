@@ -39,24 +39,6 @@
     left: -30px;
 }
 
-.txt_cadastro{
-    position: absolute;
-    top: 30px;
-    left: 1230px;
-    text-decoration: none;
-    font: 0.90em sans-serif;
-    color: black;
-    transition: 1s;
-}
-.txt_cadastro:hover{
-    position: absolute;
-    top: 25px;
-    left: 1230px;
-    text-decoration: none;
-    font: 0.95em sans-serif;
-    color:rgb(234, 97, 234);
-}
-
 .carrinho{
     position: absolute;
     top: 30px;
@@ -82,7 +64,6 @@ main{
     /*left: 350px;*/
     height: 140px;
     width: 700px;
-    justify-content: center;
 }
 
 .swiper{
