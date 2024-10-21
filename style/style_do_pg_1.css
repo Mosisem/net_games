@@ -33,9 +33,10 @@
 }
 
 .img_logo{
-    position: relative;
+    position: ;
     inline-size: 10%;
-    left: 30px;
+    /*left: 30px;*/
+    left: 10px;
 }
 
 .txt_cadastro{
