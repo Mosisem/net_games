@@ -79,7 +79,7 @@
 main{
     position:relative;
     top: 315px;
-    left: 350px;
+    /*left: 350px;*/
     height: 140px;
     width: 700px;
     justify-content: center;
