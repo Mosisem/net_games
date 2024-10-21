@@ -77,15 +77,11 @@
 }
 
 main{
-    position:absolute;
+    position:relative;
     top: 315px;
     left: 350px;
     height: 140px;
     width: 700px;
-    
-    display: flex;
-    flex-wrap: wrap;
-    align-content: center;
     justify-content: center;
 }
 
