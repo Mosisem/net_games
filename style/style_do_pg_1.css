@@ -3,7 +3,7 @@
 .di_division_head{
     position: relative;
     top:-1px ;
-    left: -1px;
+    /*left: -1px;*/
     height: 90px;
     width: 1350px;
     background-color: rgb(67, 5, 190);
