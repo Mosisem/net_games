@@ -816,15 +816,15 @@ section{
 .txt_sub_01{
     position: absolute;
     top: 340px;
-    left: 783px;
+    margin-left: 753px;
     color: rgba(255, 255, 255, 0.764);
     font: 0.75em sans-serif;
 }
 
 .carrinho2{
-    position: relative;
+    position: absolute;
     top: 60px;
-    margin-left: 560px;
+    left: 590px;
     color: white;
     font: 2em sans-serif;
 }
@@ -832,7 +832,7 @@ section{
 .b_carrinho{
     position: relative;
     top: 660px;
-    left: 140px;
+    margin-left: 140px;
     background-color: rgb(76, 36, 251);
     border: none;
     border-radius: 5px;
@@ -844,7 +844,7 @@ section{
 .b_carrinho2{
     position: relative;
     top: 660px;
-    left: 470px;
+    margin-left: 470px;
     background-color: rgb(76, 36, 251);
     border: none;
     border-radius: 5px;
@@ -856,7 +856,7 @@ section{
 .b_carrinho3{
     position: relative;
     top: 660px;
-    left: 790px;
+    margin-left: 790px;
     background-color: rgb(76, 36, 251);
     border: none;
     border-radius: 5px;
@@ -868,7 +868,7 @@ section{
 .b_carrinho4{
     position: relative;
     top: 1120px;
-    left: -110px;
+    margin-left: -110px;
     background-color: rgb(76, 36, 251);
     border: none;
     border-radius: 5px;
@@ -880,7 +880,7 @@ section{
 .b_carrinho5{
     position: relative;
     top: 1120px;
-    left: 241px;
+    margin-left: 241px;
     background-color: rgb(76, 36, 251);
     border: none;
     border-radius: 5px;
@@ -892,7 +892,7 @@ section{
 .b_carrinho6{
     position: relative;
     top: 1120px;
-    left: 566px;
+    margin-left: 566px;
     background-color: rgb(76, 36, 251);
     border: none;
     border-radius: 5px;
