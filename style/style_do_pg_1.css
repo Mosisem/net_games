@@ -104,6 +104,10 @@ main{
     inline-size: 30%;
 }
 
+section{
+    padding: 1px;
+}
+
 
 .img_an_1{
     position:absolute;
