@@ -822,7 +822,7 @@ section{
 }
 
 .carrinho2{
-    position: absolute;
+    position: relative;
     top: 60px;
     margin-left: 560px;
     color: white;
