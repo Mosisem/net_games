@@ -831,7 +831,7 @@ section{
 
 .b_carrinho{
     position: relative;
-    top: 630px;
+    margin-top: 630px;
     margin-left: 140px;
     background-color: rgb(76, 36, 251);
     border: none;
@@ -843,7 +843,7 @@ section{
 
 .b_carrinho2{
     position: relative;
-    top: 660px;
+    margin-top: 630px;
     margin-left: 470px;
     background-color: rgb(76, 36, 251);
     border: none;
