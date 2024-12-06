@@ -831,7 +831,7 @@ section{
 
 .b_carrinho{
     position: relative;
-    margin-top: 630px;
+    top: 660px;
     margin-left: 140px;
     background-color: rgb(76, 36, 251);
     border: none;
@@ -843,7 +843,7 @@ section{
 
 .b_carrinho2{
     position: relative;
-    margin-top: 630px;
+    top: 660px;
     margin-left: 470px;
     background-color: rgb(76, 36, 251);
     border: none;
@@ -855,8 +855,8 @@ section{
 
 .b_carrinho3{
     position: relative;
-    margin-top: 630px;
-    margin-left: 10px;
+    top: 660px;
+    margin-left: 790px;
     background-color: rgb(76, 36, 251);
     border: none;
     border-radius: 5px;
@@ -868,7 +868,7 @@ section{
 .b_carrinho4{
     position: relative;
     top: 1120px;
-    margin-left: 110px;
+    margin-left: -110px;
     background-color: rgb(76, 36, 251);
     border: none;
     border-radius: 5px;
