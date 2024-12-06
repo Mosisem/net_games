@@ -868,7 +868,7 @@ section{
 .b_carrinho4{
     position: relative;
     top: 1120px;
-    margin-left: -110px;
+    margin-left: 110px;
     background-color: rgb(76, 36, 251);
     border: none;
     border-radius: 5px;
