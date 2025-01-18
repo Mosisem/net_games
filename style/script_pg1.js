@@ -1,22 +1,22 @@
-
 const swiper = new Swiper('.swiper', {
-    // Optional parameters
-    loop: true,
+  // Optional parameters
+  loop: true,
+
+  // If we need pagination
+  pagination: {
+    el: '.swiper-pagination',
+  },
   
-    // If we need pagination
-    pagination: {
-      el: '.swiper-pagination',
-    },
+  // Disable mouse control
+  simulateTouch: false,
+
   
-    // Navigation arrows
-    navigation: {
-      nextEl: '.swiper-button-next',
-      prevEl: '.swiper-button-prev',
-    },
-    Keyboard:true,
-    // And if we need scrollbar
-     }
-);
+  //Autoplay Settings
+  autoplay: {
+    delay: 3000,
+    disableOnInteraction: false, 
+  },
+});
 
 var dec_ = window.document.getElementById("img_d")
  
